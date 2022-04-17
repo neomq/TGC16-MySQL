@@ -7,7 +7,6 @@ use swimming_school;
 -- check current selected database
 select DATABASE();
 
-
 -- create table
 -- <name of column> <data type> <options>
 create table parents(
